@@ -7,6 +7,6 @@ replace github.com/Cprakhar/pokecache => ./internal/pokecache
 
 require (
     github.com/Cprakhar/pokeapi v0.0.0
-    github.com/Cprakhar/pokecache v0.0.0
+    github.com/Cprakhar/pokecache v0.0.0 //indirect
 )
 
